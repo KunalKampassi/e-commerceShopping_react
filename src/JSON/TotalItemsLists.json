@@ -1,0 +1,350 @@
+[
+  {
+    "productName": "Nike plain Fleet ",
+    "productDescription": "Plain fleet snickers with extra grip and elasticity.",
+    "productID": 12294,
+    "productType": "Footwear",
+    "totalRatings": 3,
+    "price": 120,
+    "isAvailable": true,
+    "capacity": 4,
+    "isFeatured": false,
+    "isAddedToCart": false,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "category-1.jpg"
+  },
+  {
+    "productName": "Adidas Sniper shoe",
+    "productDescription": "Best in market with sporty adherence enhancing the personality of individual.",
+    "productID": 12594,
+    "productType": "Footwear",
+    "totalRatings": 4,
+    "price": 170,
+    "isAvailable": true,
+    "isFeatured": false,    "isAddedToCart": false,
+
+    "capacity": 2,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "category-2.jpg"
+  },
+  {
+    "productName": "Adidas sweat shirt",
+    "productDescription": "Classy way to look happier and sporty",
+    "productID": 74594,
+    "productType": "Garments",
+    "totalRatings": 4,
+    "price": 170,
+    "isAvailable": true,
+    "isFeatured": false,
+    "isAddedToCart": false,
+
+    "capacity": 8,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "category-3.jpg"
+  },
+  {
+    "productName": "Puma Slimy Trimmy",
+    "productDescription": "Never too late to be happy.",
+    "productID": 72394,
+    "productType": "Garments",
+    "totalRatings": 5,
+    "price": 99,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isAddedToCart": false,
+
+    "capacity": 1,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-1.jpg"
+  },
+  {
+    "productName": "HRX Joggers",
+    "productDescription": "Never too late to be happy.",
+    "productID": 72114,
+    "productType": "Footwear",
+    "totalRatings": 2,
+    "price": 99,
+    "isAvailable": false,
+    "isFeatured": true,
+    "isAddedToCart": false,
+
+    "capacity": 0,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-2.jpg"
+  },
+  {
+    "productName": "Veritola slim trousers",
+    "productDescription": "keep your self warm and amazing in Veritola trousers.",
+    "productID": 72114,
+    "productType": "Garments",
+    "totalRatings": 4,
+    "price": 155,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isAddedToCart": false,
+
+    "capacity": 0,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-3.jpg"
+  },
+  {
+    "productName": "Heusins Polo T-shirt",
+    "productDescription": "Wear like a champion",
+    "productID": 55114,
+    "productType": "Garments",
+    "totalRatings": 4,
+    "price": 200,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isAddedToCart": false,
+
+    "capacity": 5,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-4.jpg"
+  },
+  {
+    "productName": "Mi fit band",
+    "productDescription": "The Mi Smart band allows you the ultimate experience of high tech health monitor. Super Amoled screen gives the crispy resolution. Water resistent makes your sweat to go waste.",
+    "productID": 55114,
+    "productType": "Watches",
+    "totalRatings": 4,
+    "price": 200,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isExclusive": true,
+    "isAddedToCart": false,
+
+    "capacity": 1,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "exclusive.png"
+  },
+
+  {
+    "productName": "Kingfisher Knight plus",
+    "productDescription": "Solid pointed shoes.",
+    "productID": 99114,
+    "productType": "Footwear",
+    "totalRatings": 3,
+    "price": 289,
+    "isAvailable": true,
+    "isFeatured": false,
+    "isExclusive": false,
+    "isAddedToCart": false,
+
+    "capacity": 4,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-5.jpg"
+  },
+  {
+    "productName": "Pume veto blank viper ",
+    "productDescription": "Extra sleecky and v cut arry T-shirts",
+    "productID": 57814,
+    "productType": "Garments",
+    "totalRatings": 2,
+    "price": 119,
+    "isAvailable": false,
+    "isFeatured": false,
+    "isExclusive": false,
+    "isAddedToCart": false,
+
+    "capacity": 3,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-6.jpg"
+  },
+  {
+    "productName": "HRX socks",
+    "productDescription": "Short woolen soft extra stretchable, good for minimal running",
+    "productID": 55111,
+    "productType": "Garments",
+    "totalRatings": 3,
+    "price": 29,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isExclusive": true,
+    "isAddedToCart": false,
+
+    "capacity": 3,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-7.jpg"
+  },
+  {
+    "productName": "Karbonn Fossil",
+    "productDescription": "Premium extra glossy. Class is rare!!",
+    "productID": 77777,
+    "productType": "Watches",
+    "totalRatings": 5,
+    "price": 800,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isExclusive": true,
+    "isAddedToCart": false,
+
+    "capacity": 2,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-8.jpg"
+  },
+
+  {
+    "productName": "Rado Rodster",
+    "productDescription": "Tight belt extra sporty writst watch.",
+    "productID": 79778,
+    "productType": "Watches",
+    "totalRatings": 4,
+    "price": 190,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isExclusive": true,
+    "isAddedToCart": false,
+
+    "capacity": 3,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-9.jpg"
+  },
+
+  {
+    "productName": "Forrest fibre Z shoes",
+    "productDescription": "Leather cushion",
+    "productID": 55994,
+    "productType": "FootWear",
+    "totalRatings": 3,
+    "price": 110,
+    "isAvailable": false,
+    "isFeatured": true,
+    "isExclusive": true,
+    "isAddedToCart": false,
+
+    "capacity": 4,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-10.jpg"
+  },
+
+  {
+    "productName": "Netty Joggers ",
+    "productDescription": "Stretchable light and extra comfy.",
+    "productID": 99914,
+    "productType": "FootWear",
+    "totalRatings": 3,
+    "price": 110,
+    "isAvailable": true,
+    "isFeatured": false,
+    "isExclusive": false,
+    "isAddedToCart": false,
+
+    "capacity": 2,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-11.jpg"
+  },
+
+  {
+    "productName": "Nike long sleep sweat pant",
+    "productDescription": "Night wear & jogging now becomes easy with these extra comfys",
+    "productID": 11109,
+    "productType": "Garments",
+    "totalRatings": 3,
+    "price": 160,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isExclusive": false,
+    "isAddedToCart": false,
+
+    "capacity": 6,
+    "userReviews": [
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" },
+      { "userName": "", "userReview": "" }
+    ],
+    "image": "product-12.jpg"
+  }
+]

@@ -1,0 +1,49 @@
+.body-container {
+  display: flex;
+}
+
+.container-col1 {
+  flex-basis: 40%;
+  padding: 10px 5px 10px 5px;
+}
+.container-col1 {
+  flex-basis: 60%;
+  padding: 10px 5px 10px 5px;
+}
+.container-col1 img {
+  max-width: 80%;
+}
+
+.cartModal-header {
+  width: 100%;
+  margin-left: 100px;
+}
+
+.container-col1 h1 {
+  font-size: 26px;
+  color: #555;
+}
+
+.container-col1 h2 {
+  font-size: 15px;
+  color: #555;
+}
+
+.tax-alert {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: -22px;
+}
+
+.footer-btns {
+  margin: -20px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-btns .btns-left {
+  margin-right: 50px;
+}
+
+.footer-btns .btns-right {
+}

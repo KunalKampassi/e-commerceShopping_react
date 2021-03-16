@@ -1,0 +1,124 @@
+/* body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Montserrat';
+    max-width: 100%;
+} */
+.cart {
+  padding: 35px;
+  margin-bottom: 200px;
+}
+
+.cart span {
+  color: #555;
+}
+
+.cart > h1 {
+  margin-left: 560px;
+  font-size: 35px;
+}
+.cart h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #555;
+}
+
+.cart section > h1 {
+  font-size: 60px;
+  margin: 20px 0 0 35px;
+}
+
+.cart-row {
+  display: flex;
+  margin: 0 60px 0 60px;
+}
+
+.cart-row > .column {
+  width: 70%;
+}
+
+.cart-row > .column h1 {
+  font-size: 28px;
+}
+
+.cart-row > .column2 {
+  width: 30%;
+  margin-left: 70px;
+}
+
+.cart .cart-item {
+  margin: 0 0 10px 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.cart img {
+  width: 10%;
+}
+
+.cart input {
+  font-weight: bold;
+  text-align: center;
+  background: #ff523b;
+  color: white;
+  font-size: 20px;
+  height: 25px;
+  margin: 16px 0;
+  border: 0px;
+  border-radius: 4px;
+}
+
+.cart-row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* margin-right: 30%; */
+}
+
+.cart .wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart .buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart .buttons > a {
+  text-decoration: none;
+}
+
+.cart .button-checkout {
+  border: 1px solid black;
+  background-color: #ff523b;
+  text-align: center;
+  color: white;
+  border-radius: 16px;
+  padding: 10px 0 10px 0;
+  margin-bottom: 10px;
+}
+
+.cart .cancel {
+  color: black;
+}
+
+.cart .button-checkout:hover {
+  color: black;
+  background-color: white;
+}
+
+.cart .remove {
+  background: none;
+  border: none;
+  height: auto;
+  color: #ff523b;
+}
+
+.remove:hover {
+  color: #cb4335;
+}
