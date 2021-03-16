@@ -37,4 +37,4 @@ To run this project locally, run the following command `yarn start` or `npm star
 
 
 
-                                                       Developed By [Kunal Kampassi]
+                                                   Developed By [Kunal Kampassi]
